@@ -8,7 +8,7 @@
 !/public/.htaccess
 !/public/.htaccess.testing
 !/public/.htaccess.production
-!/config/system/settings.php
+/config/system/settings.php
 /config/system/additional.php
 *.gz
 *.cache
