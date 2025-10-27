@@ -40,7 +40,8 @@
 		"b13/container": "^3.0",
 		"helhum/typo3-console": "^8",
 		"sitegeist/image-jack": "^0.11.0",
-		"t3/min": "^3.1"
+		"t3/min": "^3.1",
+		"georgringer/news": "^12.3"
 	},
 	"scripts": {
 		"typo3-cms-scripts": [
