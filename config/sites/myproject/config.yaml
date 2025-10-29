@@ -7,7 +7,7 @@ autotranslateTtContentEnabled: true
 autotranslateTtContentFileReferences: 'image, assets, media'
 autotranslateTtContentLanguages: '1,2'
 autotranslateTtContentTextfields: 'header, subheader, bodytext, button_text, rowDescription, table_caption, target'
-base: 'https://typo3-13.wwagner.info/'
+base: /
 baseVariants:
   -
     base: 'https://gitgrundlagen.ddev.site/'
@@ -15,7 +15,6 @@ baseVariants:
   -
     base: 'https://testing.typo3-13.wwagner.info/'
     condition: 'applicationContext == "Development/Testing"'
-deeplAuthKey: '31337548-882f-6ff1-cc19-ba0baa2c8f09:fx'
 dependencies:
   - wwagner/vt13sitepackage
 errorHandling:
